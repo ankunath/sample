@@ -7,5 +7,4 @@ python:
 
 build:
   ci:
-    - echo $JOB_ID
     - python --version
